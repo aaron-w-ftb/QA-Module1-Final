@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Loki",
+    "species": "DOG",
+    "legs": 4
+  },
+  {
+    "name": "Ziggy",
+    "species": "CAT",
+    "legs": 4
+  },
+  {
+    "name": "Sooty",
+    "species": "RABBIT",
+    "legs": 4
+  }
+]
